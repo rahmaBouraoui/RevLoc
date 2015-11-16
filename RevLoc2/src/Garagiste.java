@@ -9,5 +9,12 @@ public class Garagiste {
 		this.nom = nom;
 		this.adresse = adresse;
 	}
+
+	@Override
+	public String toString() {
+		return "Garagiste [nom=" + nom + ", adresse=" + adresse + "]";
+	}
+	
+	
 	
 }
