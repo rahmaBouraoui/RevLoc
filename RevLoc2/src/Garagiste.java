@@ -31,6 +31,8 @@ public class Garagiste {
 		return "Garagiste [nom=" + nom + ", adresse=" + adresse + "]";
 	}
 	
-	
+	public void totoro() {
+		
+	}
 	
 }
